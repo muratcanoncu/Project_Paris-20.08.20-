@@ -1,0 +1,42 @@
+body {
+    background: #e5f4f9;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+h1, h2, h4 {
+    font-family: 'Courgette', cursive;
+}
+img {
+    width: 550px;
+    height: 300px;
+}
+.red{
+    color: red;
+}
+.blue {
+    color: blue;
+    font-weight: bold;
+}
+.ernsthemingway {
+    padding-left: 90px;
+}
+ol li {
+    list-style-type: upper-roman;
+}
+ul li {
+    list-style: circle;
+}
+#secondred span {
+    font-weight: bold;
+}
+a:link {
+    color: red;
+    font-weight: bold;
+}
+a:hover {
+    background-color: lightpink;
+    color: green;
+    font-size: 18px;
+    padding: 3px;
+}
